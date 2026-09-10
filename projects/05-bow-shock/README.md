@@ -51,4 +51,4 @@ theoretical breadth in high-speed / compressible flow.
 
 ---
 
-*Full report (English):* `Earth_bow_shock.pdf`
+*Full report (English):* [Earth_bow_shock.pdf](Earth_bow_shock.pdf)

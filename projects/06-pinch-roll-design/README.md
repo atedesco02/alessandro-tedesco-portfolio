@@ -21,3 +21,7 @@ mounting and manufacturability of aero components, complementing the CFD work.
 ## Tools
 
 `SolidWorks` · `KISSsoft`
+
+---
+
+*Full report (Italian):* [Relazione_tecnica.pdf](Relazione_tecnica.pdf)

@@ -66,4 +66,4 @@ combustion side shows CFD depth beyond aerodynamics.
 
 ---
 
-*Full report (English):* `3D_Combustor.pdf`
+*Full report (English):* [3D_Combustor.pdf](3D_Combustor.pdf)

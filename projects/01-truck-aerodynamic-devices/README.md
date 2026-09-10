@@ -59,4 +59,4 @@ vs wake-reduction trade-off are core aerodynamic concepts.
 
 ---
 
-*Full report (English):* `Aerodynamic_devices_on_a_truck.pdf`
+*Full report (English):* [Aerodynamic_devices_on_a_truck.pdf](Aerodynamic_devices_on_a_truck.pdf)

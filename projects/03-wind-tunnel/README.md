@@ -45,4 +45,4 @@ CFD-to-tunnel correlation. Lab 3 applies these to an actual F1 aero component.
 
 ---
 
-*Full report (Italian):* `Relazioni_Laboratori_Fluidodinamica_Sperimentale.pdf`
+*Full report (Italian):* [Relazioni_Laboratori_Fluidodinamica_Sperimentale.pdf](Relazioni_Laboratori_Fluidodinamica_Sperimentale.pdf)
