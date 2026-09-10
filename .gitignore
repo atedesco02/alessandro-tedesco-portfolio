@@ -2,8 +2,18 @@
 *.foam
 processor*/
 postProcessing/
-# OpenFOAM time directories (0.1, 1, 2, ...)
-[0-9]*/
+# OpenFOAM time directories (0.1, 1, 2, 10, 100, ...) — fixed-length digit
+# classes only (no trailing wildcard), so this can't accidentally match
+# numbered project folders like "01-truck-aerodynamic-devices": those always
+# have a hyphen+letters right after the leading digits, which these patterns
+# don't allow.
+[0-9]/
+[0-9][0-9]/
+[0-9][0-9][0-9]/
+[0-9][0-9][0-9][0-9]/
+[0-9].[0-9]*/
+[0-9][0-9].[0-9]*/
+[0-9][0-9][0-9].[0-9]*/
 # but keep the initial-conditions directory
 !0/
 constant/polyMesh/
