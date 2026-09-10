@@ -23,7 +23,7 @@ full report.
 
 | Project | Type | Focus | Key tools |
 |---|---|---|---|
-| [Sail aerodynamics with DUST] | MSc thesis, in progress | Mid-fidelity aerodynamics of a lifting surface | DUST, Python, ParaView, HPC |
+| High performance sail aerodynamics | MSc thesis, in progress | Mid-fidelity aerodynamics of a lifting surface | DUST, Python, ParaView, HPC |
 | [Aerodynamic devices on a truck](projects/01-truck-aerodynamic-devices/) | Academic project, 2025 | Road-vehicle drag reduction | OpenFOAM, snappyHexMesh, ParaView, MATLAB |
 | [CFD analysis of a 3D combustor](projects/02-3D-combustor/) | Academic project, 2026 | Non-premixed combustion with Lagrangian spray (PIMPLE) | OpenFOAM, snappyHexMesh, ParaView, MATLAB |
 | [Rollover analysis of a truck](projects/03-rollover-analysis/) | Academic project, 2025 | Crosswind-induced vehicle rollover | MATLAB |
