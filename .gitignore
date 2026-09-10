@@ -1,0 +1,41 @@
+# --- CFD output (keep the repo light; commit setups, not results) ---
+*.foam
+processor*/
+postProcessing/
+# OpenFOAM time directories (0.1, 1, 2, ...)
+[0-9]*/
+# but keep the initial-conditions directory
+!0/
+constant/polyMesh/
+VTK/
+*.vtk
+*.vtu
+*.vtp
+*.pvd
+*.cgns
+
+# --- meshes & large binaries ---
+*.msh
+*.cgns
+*.stl.gz
+*.h5
+*.hdf5
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# --- MATLAB ---
+*.asv
+*.mat
+
+# --- CAD junk ---
+*.bak
+~$*
+
+# --- OS ---
+.DS_Store
+Thumbs.db
