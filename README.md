@@ -11,8 +11,7 @@ Parma / Milano, Italy · [a.tedesco02@gmail.com](mailto:a.tedesco02@gmail.com) �
 MSc Aeronautical Engineering student at Politecnico di Milano on the aerodynamics
 track, specialising in computational fluid dynamics for external aerodynamics,
 with a strong interest in motorsport and sailing. Currently working on my MSc
-thesis applies that the **DUST** mid-fidelity solver to sail aerodynamics in 
-collaboration — hands-on external aerodynamics over 
+thesis applies that the **DUST** mid-fidelity solver to sail aerodynamics — hands-on external aerodynamics over 
 lifting surfaces, with methods that transfer directly to vehicle aerodynamics. 
 I'm comfortable across the full CFD pipeline: geometry, meshing, solver setup, HPC
 runs and post-processing.
